@@ -1,0 +1,54 @@
+.topbar{background-color: #316dc3;float: left;height: 40px;color: #fff;padding: 6px 0; width: 100%;}
+.topbar button{width: 80px;font-size: 10px;}
+.saylani{margin: 0px;padding: 6px 0;float: left;width: 100%;text-align: center;/* height: 180px; */}
+.saylani img{ width: 200px; height: 40;}
+.navi{background-color: #f7f8fa;height: 80px;color: #333;float: left; padding: 6px 0;width: 100%; border-bottom: 1px solid #e2e0e0;}
+.saylani{/* width: 100%; */}
+.navi img{ width: 50%; height: 100;}
+.slider{margin: 0px; padding: 0px; width: 100%; float: left;}
+.slider img{width: 100%;}
+.marq{background-color: #316dc3; margin-top: 5px; height: 40px;} 
+.marq p{padding-top: 6px; color: #ffffff;} 
+.basic img{margin-left: 540px; margin-top: 0px;}
+.basicintro h1{text-align: center;}
+.basicintro img{margin-left: 540px; margin-top: 0px;}
+.basicintro p{ text-align: justify;}
+
+.progressbar{background-color: #316dc3;float: left;height: 200px; color: #fff;padding:30px 0; width: 100%;}
+.progressbar img{width: 30px; height: 30px;}
+.progressbar h2,p{padding-top: 6px; text-align: center;}
+.what h1{text-align: center;}
+.mybox{margin: 0px;padding: 0;float: left;width: 100%;text-align: center;height: 180px;background-color: #fff;box-shadow: 2px 1px 9px 1px #ccc;}
+.mybox img{width: 60px;height: 60px;margin: 20px 0;}
+.mybox p{
+    padding: 5px;
+    text-align: center;
+    margin: 0;
+    font-weight: 600;
+    color: #316dc3;
+    }
+.what{float: left;padding:30px 0;width: 100%;background-color: #f8f8f8;}
+.what h1{ color: #316dc3; }
+.mission{float: left;padding:10px 0;width: 100%;background-color: #f8f8f8;}
+.hepatitis{margin: 15px;padding: 0;float: left;width: 45%;text-align: center;height: 100px;background-color: #f8f8f8;box-shadow: 2px 1px 9px 1px #ccc;}
+.hepatitis img{width: 40px;height: 40px;margin: 25px 5px;float: left;}
+.hepatitis p{width: 200px;margin: -60px 50px;padding: 0 10px;float: left;font-size: 15px;text-align: left;}
+.linkBar{margin: 0px;padding: 0;float: left;width: 100%;text-align: center;}
+.linkBar ul{margin: 18px 0;padding: 0;}
+.linkBar ul li{margin: 0px 10px;padding: 0; list-style: none; display: inline-block;}
+.linkBar li a{margin: 0px;padding: 5px 8px; text-decoration: none;}
+.linkBar li a:hover{margin: 0px;padding: 5px 8px; color: #fff; background-color:#316dc3; border-radius:20px;}
+.saylan-icon{margin: 0px;padding: 0;float: left;width: 100%;text-align: center;}
+.saylan-icon img{width: 20px; float: left; margin: 0 3px;}
+.marqSlide{margin: 0px;padding: 0;float: left;width: 100%;}
+.marqSlide p{margin: 0px;padding: 0;float: left;width: 100%;text-align: justify;}
+.marqSlide marquee{height: 250px;}
+.galleryImg{margin: 0px;padding: 0;float: left;width: 100%;}
+.galleryImg img{margin: 0px;padding: 0;float: left;width: 100%;}
+.mainfooter{margin: 0px;height: 350px;padding: 0;float: left;width: 100%; background-color: #333; color: #fff;}
+.mainfooter p{margin: 0px;padding: 0;float: left;width: 100%;}
+.bottomBar{margin: 0px; height: 40px; padding: 0; float: left;width: 100%; background-color: #316dc3; color: #fff;}
+.bottomBar p{margin: 10px;padding: 0;float: left;width: 100%; font-size: 12px;}
+.linkQuicks{margin: 20px 0; padding: 0; float: left;width: 100%; color: #fff;}
+.linkQuicks p{margin-top: 10px ; font-size: 13px; text-align: left;}
+.linkQuicks h4{margin-top: 10px ; font-size: 13px; font-weight: 600; text-align: left;}
